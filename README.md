@@ -1,5 +1,7 @@
 # CNCF Projects App
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/d7181b08-8310-48fc-9e12-e1eed0d3e047.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/cloud-native-app)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/b4270952-7e1b-4064-9aae-199e71a5c013.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/cloud-native-app)  
+
 ## Overview
 Have you ever wondered what an application architecture would look like if you committed to using mostly all graduated or incubating projects from the [Cloud Native Computing Foundation](https://www.cncf.io/projects/)? This repo, the **[CNCF](https://www.cncf.io/) Projects App**, attempts to answer that question with an example expense application that is made up almost exclusively of CNCF projects. 
 
